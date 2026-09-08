@@ -1,1 +1,1 @@
-# Donkey-Kong-APManual
+# Donkey Kong Manual APWorld
