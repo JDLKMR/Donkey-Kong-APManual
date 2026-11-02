@@ -1,0 +1,18 @@
+{
+  "Level 1": {
+    "starting": true,
+    "connects_to": [
+      "Level 2",
+      "Level 3"
+    ],
+    "requires": []
+  },
+  "Level 2": {
+    "connects_to": [],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  "Level 3": {
+    "connects_to": [],
+    "requires": "|Progressive Level Unlock:2|"
+  }
+}

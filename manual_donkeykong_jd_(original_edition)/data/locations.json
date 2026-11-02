@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Level 1 - Clear",
+    "region": "Level 1",
+    "category": [
+      "Level 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 2 - Purse",
+    "region": "Level 2",
+    "category": [
+      "Level 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 2 - Parasol",
+    "region": "Level 2",
+    "category": [
+      "Level 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 2 - Clear",
+    "region": "Level 2",
+    "category": [
+      "Level 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 3 - Parasol",
+    "region": "Level 3",
+    "category": [
+      "Level 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 3 - Purse",
+    "region": "Level 3",
+    "category": [
+      "Level 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 3 - Clear",
+    "region": "Level 3",
+    "category": [
+      "Level 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 4 - Purse",
+    "region": "Level 4",
+    "category": [
+      "Level 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 4 - Lower Parasol",
+    "region": "Level 4",
+    "category": [
+      "Level 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 4 - Upper Parasol",
+    "region": "Level 4",
+    "category": [
+      "Level 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Level 4 - Clear",
+    "victory": true,
+    "region": "Level 4",
+    "category": [
+      "Level 4"
+    ],
+    "requires": []
+  }
+]

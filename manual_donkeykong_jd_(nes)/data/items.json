@@ -1,0 +1,18 @@
+[
+  {
+    "count": "2",
+    "name": "Progressive Level Unlock",
+    "category": [
+      "Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hammer",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  }
+]
